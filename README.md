@@ -7,4 +7,4 @@ Because I'm pedantic, I've fixed Translink's journey planner 'app' so that when 
 If you feel my pain and would like to use it just deploy it on a free Heroku instance, navigate there and add it to your homescreen!
 
 ## If you're from Translink
-If you're from Translink and you want to/have fixed your app or I've made you mad, send me an email or tweet me! I'd love to talk.
+If you're from Translink and you want to/have fixed your app or I've made you mad, send me an email or tweet me! I'd love to talk about your web services (and just to say hi, too).
